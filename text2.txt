@@ -2,3 +2,5 @@ This is my second File in Git.
 This have text of second file which is created newly.
 Again checking the diff command -now to see the diff in files in the working area 
 Added new line to see the stack command .
+
+Again Added new line to see the stack command ,and modified it.
