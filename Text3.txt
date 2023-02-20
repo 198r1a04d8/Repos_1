@@ -1,1 +1,4 @@
 This is my thrid file created in git.
+This is a new line added to it.
+Making changes in third file.
+Again checking the diff command -now to see the difference in files in the working area.
