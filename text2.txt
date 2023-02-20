@@ -1,2 +1,2 @@
 This is my second File in Git.
-This has text of second file .
+This have text of second file which is created newly.
