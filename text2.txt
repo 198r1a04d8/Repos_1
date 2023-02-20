@@ -4,3 +4,6 @@ Again checking the diff command -now to see the diff in files in the working are
 Added new line to see the stack command .
 
 Again Added new line to see the stack command ,and modified .
+Testing .....the master branch.
+testing 2nd file.
+Add the git hub .
